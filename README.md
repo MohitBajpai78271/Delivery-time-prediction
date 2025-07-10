@@ -25,7 +25,6 @@ Timely delivery is crucial for customer satisfaction in the food delivery indust
 - `Python`, `Pandas`, `NumPy`
 - `Scikit-learn`, `XGBoost`, `RandomForestRegressor`
 - `Streamlit` for interactive UI
-- `Google Maps API` (mocked or optional)
 
 ---
 
